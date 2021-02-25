@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/FAFB_DN_Autoseg" />
+    <content url="file://$MODULE_DIR$/FAFB_GF" />
+    <content url="file://$MODULE_DIR$/HEMI_GF" />
+    <content url="file://$MODULE_DIR$/Hemibrain_NeuPrint" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
